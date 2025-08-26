@@ -2,7 +2,7 @@
 
 ## Sayuri Ecima Castillo
 
-![Foto Sayuri Ecima](SayuriEcima/images/fotoSayuri.png)
+<img src="SayuriEcima/images/fotoSayuri.png" alt="Foto Sayuri Ecima" width="150" height="150">
 
 **Rol en la industria:** Game Programmer  
 
