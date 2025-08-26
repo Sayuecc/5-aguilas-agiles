@@ -2,7 +2,7 @@
 
 <h2>Sayuri Ecima Castillo</h2>
 
-<img src="images/fotoSayuri.jpeg" alt="Foto Sayuri Ecima">
+<img src="images/fotoSayuri.png" alt="Foto Sayuri Ecima">
  
  <p>El rol en la industria que ha escogido: Game Programmer</p>
 
