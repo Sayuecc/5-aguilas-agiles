@@ -1,11 +1,12 @@
-<h1>5 águilas ágiles</h1>
+# 5 águilas ágiles
 
-<h2>Sayuri Ecima Castillo</h2>
+## Sayuri Ecima Castillo
 
-<img src="images/fotoSayuri.png" alt="Foto Sayuri Ecima">
- 
- <p>El rol en la industria que ha escogido: Game Programmer</p>
+![Foto Sayuri Ecima](SayuriEcima/images/fotoSayuri.png)
 
- <p>Ubicación: Ibagué </p>
+**Rol en la industria:** Game Programmer  
 
- <p>Perfil Breve: Estudiante de ingeniería multimedia de sexto semestre. Hago parte del CEAD Ibagué. </p>
+**Ubicación:** Ibagué  
+
+**Perfil Breve:**  
+Estudiante de ingeniería multimedia de sexto semestre. Hago parte del CEAD Ibagué.  
