@@ -10,3 +10,15 @@
 
 **Perfil Breve:**  
 Estudiante de ingeniería multimedia de sexto semestre. Hago parte del CEAD Ibagué.  
+
+
+## Dayana Gutierrez  
+
+<img src="DayanaGutierrez/imagen/FotoDayana.jpeg" alt="Foto Dayana Gutierrez" width="828" height="828">
+
+**Rol en la industria:** Digital Marketing 
+
+**Ubicación:** Neiva
+
+**Perfil Breve:**
+Estudiante de décimo semestre de ingeniería multimedia. Hago parte del CCAV Neiva.
