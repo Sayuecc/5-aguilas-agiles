@@ -16,7 +16,7 @@ Estudiante de ingeniería multimedia de sexto semestre. Hago parte del CEAD Ibag
 
 <img src="DayanaGutierrez/imagen/FotoDayana.jpeg" alt="Foto Dayana Gutierrez" width="828" height="828">
 
-**Rol en la industria:** Digital Marketing 
+**Rol en la industria:** Diseñador de sonido  
 
 **Ubicación:** Neiva
 
