@@ -22,3 +22,14 @@ Estudiante de ingeniería multimedia de sexto semestre. Hago parte del CEAD Ibag
 
 **Perfil Breve:**
 Estudiante de décimo semestre de ingeniería multimedia. Hago parte del CCAV Neiva.
+
+## Paula Andrea Zambrano Meneses  
+
+<img src="Paula/Image/fotoPaula.jpg" alt="Foto Paula" width="200">
+
+**Rol en la industria:** Diseñadora Multimedia  
+
+**Ubicación:** Líbano - Tolima  
+
+**Perfil Breve:**  
+Estudiante de Ingeniería Multimedia de sexto semestre, pertenezco a la UDR Líbano Tolima.
