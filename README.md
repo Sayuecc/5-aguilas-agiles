@@ -36,7 +36,7 @@ Estudiante de Ingeniería Multimedia de sexto semestre, pertenezco a la UDR Líb
 
 ## Oscar Eduardo Losada Tocora
 
-<img src="Oscar Eduardo Losada Tocora/Imagen/Oscar Losada.JPG" alt="Foto Oscar Losada" width="180" height="150">
+<img src="Oscar Eduardo Losada Tocora/Imagen/Oscar Losada.JPG" alt="Foto Oscar Losada" width="150" height="180">
 
 **Rol en la industria:** <escribe tu rol aquí, p. ej., Game Programmer>  
 **Ubicación:** <tu ciudad>
