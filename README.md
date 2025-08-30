@@ -38,7 +38,7 @@ Estudiante de Ingeniería Multimedia de sexto semestre, pertenezco a la UDR Líb
 
 <img src="Oscar Eduardo Losada Tocora/Imagen/Oscar Losada.JPG" alt="Foto Oscar Losada" width="150" height="180">
 
-**Rol en la industria:** Producer / Scrum Master
+**Rol en la industria:** QA / Release Manager
 
 **Ubicación:** La Plata - Huila
 
