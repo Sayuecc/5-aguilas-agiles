@@ -38,8 +38,9 @@ Estudiante de Ingeniería Multimedia de sexto semestre, pertenezco a la UDR Líb
 
 <img src="Oscar Eduardo Losada Tocora/Imagen/Oscar Losada.JPG" alt="Foto Oscar Losada" width="150" height="180">
 
-**Rol en la industria:** <escribe tu rol aquí, p. ej., Game Programmer>  
-**Ubicación:** <tu ciudad>
+**Rol en la industria:** Producer / Scrum Master
+
+**Ubicación:** La Plata - Huila
 
 **Perfil Breve:** 
-<1–2 líneas sobre tu semestre/centro e intereses (motor/lenguaje/área).>
+Estudiante de noveno semestre de Ingeniería multimedia. Pertenezco a la sede UDR-La Plata, Huila 
