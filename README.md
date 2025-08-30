@@ -33,3 +33,13 @@ Estudiante de décimo semestre de ingeniería multimedia. Hago parte del CCAV Ne
 
 **Perfil Breve:**  
 Estudiante de Ingeniería Multimedia de sexto semestre, pertenezco a la UDR Líbano Tolima.
+
+## Oscar Eduardo Losada Tocora
+
+<img src="Oscar Eduardo Losada Tocora/imagen/Oscar Losada.jpg" alt="Foto Oscar Eduardo Losada" width="180">
+
+**Rol en la industria:** <escribe tu rol aquí, p. ej., Game Programmer>  
+**Ubicación:** <tu ciudad>
+
+**Perfil Breve:** 
+<1–2 líneas sobre tu semestre/centro e intereses (motor/lenguaje/área).>
