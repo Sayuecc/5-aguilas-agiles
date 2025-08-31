@@ -33,3 +33,14 @@ Estudiante de décimo semestre de ingeniería multimedia. Hago parte del CCAV Ne
 
 **Perfil Breve:**  
 Estudiante de Ingeniería Multimedia de sexto semestre, pertenezco a la UDR Líbano Tolima.
+
+## Oscar Eduardo Losada Tocora
+
+<img src="Oscar Eduardo Losada Tocora/Imagen/Oscar Losada.JPG" alt="Foto Oscar Losada" width="150" height="180">
+
+**Rol en la industria:** QA / Release Manager
+
+**Ubicación:** La Plata - Huila
+
+**Perfil Breve:** 
+Estudiante de noveno semestre de Ingeniería multimedia. Pertenezco a la sede UDR-La Plata, Huila 
