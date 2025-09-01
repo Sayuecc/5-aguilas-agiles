@@ -10,3 +10,47 @@
 
 **Perfil Breve:**  
 Estudiante de ingeniería multimedia de sexto semestre. Hago parte del CEAD Ibagué.  
+
+
+## Dayana Gutierrez  
+
+<img src="DayanaGutierrez/imagen/FotoDayana.jpeg" alt="Foto Dayana Gutierrez" width="828" height="828">
+
+**Rol en la industria:** Diseñador de sonido  
+
+**Ubicación:** Neiva
+
+**Perfil Breve:**
+Estudiante de décimo semestre de ingeniería multimedia. Hago parte del CCAV Neiva.
+
+## Paula Andrea Zambrano Meneses  
+
+<img src="Paula/Image/fotoPaula.jpg" alt="Foto Paula" width="200">
+
+**Rol en la industria:** Diseñadora Multimedia  
+
+**Ubicación:** Líbano - Tolima  
+
+**Perfil Breve:**  
+Estudiante de Ingeniería Multimedia de sexto semestre, pertenezco a la UDR Líbano Tolima.
+
+## Oscar Eduardo Losada Tocora
+
+<img src="Oscar Eduardo Losada Tocora/Imagen/Oscar Losada.JPG" alt="Foto Oscar Losada" width="150" height="180">
+
+**Rol en la industria:** QA / Release Manager
+
+**Ubicación:** La Plata - Huila
+
+**Perfil Breve:** 
+Estudiante de noveno semestre de Ingeniería multimedia. Pertenezco a la sede UDR-La Plata, Huila 
+
+**Arbin Iscod Polit Bustos**  
+
+<img src="ArbinPolit/arbin.jpg" alt="arbin" width="150" height="180">
+
+Rol en la industria: Game Designer  
+Ubicación: Ibagué, Tolima 
+
+Soy estudiante de Ingeniería en Multimedia en la UNAD, actualmente en ultimo semestre.  
+Me apasiona el diseño interactivo y la producción audivisual
