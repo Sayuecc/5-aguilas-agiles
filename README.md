@@ -44,3 +44,13 @@ Estudiante de Ingeniería Multimedia de sexto semestre, pertenezco a la UDR Líb
 
 **Perfil Breve:** 
 Estudiante de noveno semestre de Ingeniería multimedia. Pertenezco a la sede UDR-La Plata, Huila 
+
+**Arbin Iscod Polit Bustos**  
+
+<img src="ArbinPolit/arbin.jpg" alt="arbin" width="150" height="180">
+
+Rol en la industria: Game Designer  
+Ubicación: Ibagué, Tolima 
+
+Soy estudiante de Ingeniería en Multimedia en la UNAD, actualmente en ultimo semestre.  
+Me apasiona el diseño interactivo y la producción audivisual
